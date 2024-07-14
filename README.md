@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj9045j&label=Profile%20views&color=0e75b6&style=flat" alt="aj9045j" /> </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding coding" width="330px">
+<img align="right" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="coding coding" width="330px">
 
 
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms**

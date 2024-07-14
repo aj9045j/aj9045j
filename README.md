@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aj9045j&label=Profile%20views&color=0e75b6&style=flat" alt="aj9045j" /> </p>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding coding" width="400px">
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="coding coding" width="330px">
 
 
 - 🌱 I’m currently learning **Advanced Machine Learning Algorithms**
